@@ -9,7 +9,7 @@ Our app helps combat loneliness - if you are planning to dine out, our website i
 # How we built it 
 We used React for our client side and Node JS and MySQL for our server side as we successfully employed Google Maps API along with HTML and CSS to create a full stack web application.
 
-# Installation
+# Detailed instructions for how to open or run your project:
 * Install the node-modules : ```npm install``` in both client and server folders
 
 * Run the Node.js server (server):
@@ -17,3 +17,18 @@ We used React for our client side and Node JS and MySQL for our server side as w
 
 * Run the React app (client):
  ```npm start```
+
+# Technologies/Software/Programming Languages used:
+* JavaScript
+* Node.js
+* React
+* HTML/CSS
+* MySQL
+
+# Project official sources
+* Bootstrap : https://getbootstrap.com/
+* Google Maps API
+* Restaurants across Davis, California
+
+
+
