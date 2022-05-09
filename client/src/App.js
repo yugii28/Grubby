@@ -6,6 +6,8 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
 
+//sign in
+const [user] = useState("");
 const [usernameReg, setUsernameReg] = useState("");
 const [passwordReg, setPasswordReg] = useState("");
 const [login1, setLogin1] = useState(false)
